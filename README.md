@@ -34,8 +34,7 @@ by an ESP32 microcontroller.
 - Reduces manual waste sorting and health risks for sanitation workers
 
 ## Project Documentation
-[View Full Documentation](FINAL PROJECT DOCUMENTATION.docx)
-
+[View Full Documentation](https://github.com/joshnachallagali/SmartBinx-Intellligent-Waste-Management/tree/main)
 ## Developer
 Challagalli Reddy Joshna
 B.Tech Computer Science | Aditya College of Engineering
