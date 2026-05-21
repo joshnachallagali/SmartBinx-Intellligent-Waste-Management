@@ -34,7 +34,7 @@ by an ESP32 microcontroller.
 - Reduces manual waste sorting and health risks for sanitation workers
 
 ## Project Documentation
-[View Full Documentation]()
+[View Full Documentation](FINAL PROJECT DOCUMENTATION.docx)
 
 ## Developer
 Challagalli Reddy Joshna
